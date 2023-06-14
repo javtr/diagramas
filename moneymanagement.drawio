@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T23:18:02.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.4.0" etag="n16JmEYcXIU40UZkT0KK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T23:24:26.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="EXm5jfRbN2MH80ApzWVl" version="21.4.0" type="github">
   <diagram name="Página-1" id="jTCUnNVhZNnyA1noU7QJ">
-    <mxGraphModel>
+    <mxGraphModel dx="976" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gdpURRH1MBhiA5UcHvdf-1" value="500" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gdpURRH1MBhiA5UcHvdf-2" value="boton de confirmacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gdpURRH1MBhiA5UcHvdf-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gdpURRH1MBhiA5UcHvdf-4" value="si se supera el calculo x" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gdpURRH1MBhiA5UcHvdf-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gdpURRH1MBhiA5UcHvdf-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
