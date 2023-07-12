@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T22:06:27.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="0KGStJtYeD4UsGaWgFDP" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T22:35:00.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="k9LH2EitI3JnTmIV_3ZY" version="21.6.2" type="github">
   <diagram name="Página-1" id="_HVB7WUco_d8UwrP3-4S">
-    <mxGraphModel dx="1775" dy="1102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="1212" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,22 +16,13 @@
         <mxCell id="OChGBxt4EpNwGg17mhDG-4" value="3000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1364" y="323" width="87" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="405" width="136" height="42" as="geometry" />
+        <mxCell id="OChGBxt4EpNwGg17mhDG-8" value="Riesgo del stop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1487" y="611" width="87" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-6" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1364" y="402" width="87" height="48" as="geometry" />
+        <mxCell id="OChGBxt4EpNwGg17mhDG-9" value="187.5 usd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="611" width="87" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-7" value="% riesgo diario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="402" width="87" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-8" value="Limite perdida maximo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="785" width="87" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-9" value="150 usd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1347" y="785" width="87" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-10" value="12&amp;nbsp; ticks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="OChGBxt4EpNwGg17mhDG-10" value="15&amp;nbsp; ticks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1384" y="862" width="87" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OChGBxt4EpNwGg17mhDG-11" value="Stop ES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FF3333;" vertex="1" parent="1">
@@ -43,35 +34,26 @@
         <mxCell id="OChGBxt4EpNwGg17mhDG-13" value="Stop MES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="1479" y="900" width="102" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="486" width="136" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-15" value="15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1367" y="483" width="87" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-16" value="Tamaño Stop % Ticks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1482" y="483" width="87" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="OChGBxt4EpNwGg17mhDG-17" value="operar max 8 contratos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="1246" y="903" width="138" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OChGBxt4EpNwGg17mhDG-18" value="No operar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1244" y="862" width="138" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-19" value="sacar el 5% a 3000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1675" y="785" width="263" height="48" as="geometry" />
+        <mxCell id="OChGBxt4EpNwGg17mhDG-19" value="12.5 * 15 " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1583" y="613" width="263" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-20" value="150 usd /valor de un tick E-mini " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="OChGBxt4EpNwGg17mhDG-20" value="15 * 12.6 = " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1675" y="852" width="361" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OChGBxt4EpNwGg17mhDG-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1321" y="568" width="136" height="42" as="geometry" />
+          <mxGeometry x="1319" y="403" width="136" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="OChGBxt4EpNwGg17mhDG-22" value="ES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="565" width="87" height="48" as="geometry" />
+        <mxCell id="OChGBxt4EpNwGg17mhDG-22" value="SP500" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1368" y="400" width="87" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OChGBxt4EpNwGg17mhDG-23" value="Mercado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="565" width="87" height="48" as="geometry" />
+          <mxGeometry x="1483" y="400" width="87" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OChGBxt4EpNwGg17mhDG-24" value="150 usd /valor de un tick E-micro " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1675" y="897" width="361" height="48" as="geometry" />
@@ -81,6 +63,45 @@
         </mxCell>
         <mxCell id="OChGBxt4EpNwGg17mhDG-26" value="120/15 = 8 si es menor a 1, alcanza a operar 8 coontratos y es mayor que 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1001" y="964" width="279" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-27" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#009900;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="653" y="276" as="sourcePoint" />
+            <mxPoint x="874" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-28" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="658" y="441" as="sourcePoint" />
+            <mxPoint x="879" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-29" value="15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1359" y="747" width="87" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-30" value="Tamaño Stop % Ticks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1474" y="747" width="87" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-31" value="6.25" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1359" y="676" width="87" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-32" value="% riesgo stop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1474" y="676" width="87" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-33" value="(15 *12.5 )/3000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1637" y="676" width="227" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-34" value="viene del grafico y las lineas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1647" y="755" width="263" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1321" y="467" width="136" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-36" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="464" width="87" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="OChGBxt4EpNwGg17mhDG-37" value="% riesgo maximo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="464" width="87" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
